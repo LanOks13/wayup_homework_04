@@ -87,10 +87,11 @@ h6 {
 .wrapper {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .offer {
-  margin-top: 137px;
+  /* margin-top: 10px; */
   width: 560px;
 }
 
